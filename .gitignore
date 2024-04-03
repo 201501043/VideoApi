@@ -1,0 +1,9 @@
+bin/
+.vs/
+obj/
+packages/
+Properties/
+Videos/
+External/*exe
+*mp4
+.vscode
